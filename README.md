@@ -1,11 +1,8 @@
-## Hi there, I’m Aarish! 👋
+## I am Top Rated Seller on Upwork!
 
-- 👀 I’m interested in Machine Learning and Deep Learning.
-- 🌱 I’m currently learning ML implementation using Pyhton. 
-
-![Profile views](https://gpvc.arturio.dev/aarishmaqsood)
+:star: Providing the Services of Data Science Projects, Data Analysis, EDA etc.
+:star: Uploading weekly video on [:yt:](https://www.youtube.com/c/aarishmaqsood), related to ArcGIS stuff.  
 
 ### Connect with me:
 - [Twitter](https://twitter.com/AaRishOfficial)
 - [Linkedin](https://www.linkedin.com/in/aarishmaqsood/)
-- [Kaggle](https://www.kaggle.com/aarishmaqsood)
