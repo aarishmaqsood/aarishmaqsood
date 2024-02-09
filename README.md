@@ -2,7 +2,7 @@
 
 :star: Providing the Services of Data Science Projects, Data Analysis, EDA etc.
 
-:star: Uploading weekly video on [Youtube](https://www.youtube.com/c/aarishmaqsood), related to ArcGIS stuff.  
+:star: Uploads video on [Youtube](https://www.youtube.com/c/aarishmaqsood), related to ArcGIS stuff.  
 
 ### Connect with me:
 - [Twitter](https://twitter.com/AaRishOfficial)
