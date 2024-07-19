@@ -1,4 +1,4 @@
-## I am Top Rated Seller on Upwork!
+## I am Top Rated Plus Seller on Upwork!
 
 :star: Providing the Services of Data Science Projects, Data Analysis, EDA etc.
 
